@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam02/exam02.iml" filepath="$PROJECT_DIR$/exam02/exam02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam03/exam03.iml" filepath="$PROJECT_DIR$/exam03/exam03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam04/exam04.iml" filepath="$PROJECT_DIR$/exam04/exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam07/exam07.iml" filepath="$PROJECT_DIR$/exam07/exam07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exan01/exan01.iml" filepath="$PROJECT_DIR$/exan01/exan01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_data.iml" filepath="$PROJECT_DIR$/java_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/test02.iml" filepath="$PROJECT_DIR$/test02/test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thisisjava/thisisjava.iml" filepath="$PROJECT_DIR$/thisisjava/thisisjava.iml" />
+    </modules>
+  </component>
+</project>
